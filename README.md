@@ -8,3 +8,5 @@
 ```
 sudo apt-get update && sudo apt upgrade
 ```
+
+and run the fucking node
